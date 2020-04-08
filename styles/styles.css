@@ -181,7 +181,7 @@ body {
 	}
 	50% {
 		transform: rotateY(180deg);
-		left: calc(100% - 100px);
+		left: calc(100% - 150px);
 	}
 	99%{
 		transform: rotateY(180deg);
